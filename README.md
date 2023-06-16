@@ -9,7 +9,8 @@
 </div>
 
 ## ⭕ Sobre mim:
-    Estou em transição de carreira, procurando me desenvolver cada dia mais. Atualmente procuro estágio na área de Dados ou Cybersecurity.
+    Estou em transição de carreira, procurando me desenvolver cada dia mais. 
+Atualmente procuro estágio na área de Dados ou Cybersecurity.
 
 ###  Tecnologias que possuo mais conhecimento:
 ![SQL_SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
